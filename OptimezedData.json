@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "path": "C/user/img/img1.png",
+        "timestamp": "2024-09-15T10:25:00Z",
+        "context": "Sameer and Shaarika were catching up over coffee. Sameer shared his excitement about his latest project at work, explaining how they were integrating AI into their applications. Shaarika listened intently and offered some suggestions on improving user experience based on her own experiences with similar projects. They discussed the potential challenges and how they could address them."
+    },
+    {
+        "id": 2,
+        "path": "C/user/img/img2.png",
+        "timestamp": "2024-09-15T11:00:00Z",
+        "context": "Vivek was preparing for an important presentation and asked Vaishnavi for her help with designing the slides. Vaishnavi agreed and suggested a few design ideas that could make the presentation more engaging. They spent the afternoon working together, with Vaishnavi providing feedback on the content and layout, while Vivek focused on refining the details."
+    },
+    {
+        "id": 3,
+        "path": "C/user/img/img3.png",
+        "timestamp": "2024-09-15T12:30:00Z",
+        "context": "Sameer and Vaishnavi were working on a coding problem for their weekend hackathon. Sameer was debugging a piece of code, while Vaishnavi was researching potential solutions online. They collaborated to troubleshoot the issues and eventually found a solution that improved their project’s performance."
+    },
+    {
+        "id": 4,
+        "path": "C/user/img/img4.png",
+        "timestamp": "2024-09-15T14:00:00Z",
+        "context": "Shaarika was hosting a small get-together at her place and invited Vivek and Sameer. They arrived with a few snacks and drinks, and the evening turned into a lively discussion about their favorite movies and recent travel experiences. The conversation flowed naturally as they shared stories and recommendations."
+    },
+    {
+        "id": 5,
+        "path": "C/user/img/img5.png",
+        "timestamp": "2024-09-15T15:15:00Z",
+        "context": "Vivek and Shaarika were discussing their upcoming vacation plans. Shaarika wanted to visit a beach destination, while Vivek preferred a mountainous retreat. They debated the pros and cons of each location and eventually decided to compromise by selecting a destination that offered both beach and mountain experiences."
+    },
+    {
+        "id": 6,
+        "path": "C/user/img/img6.png",
+        "timestamp": "2024-09-15T16:00:00Z",
+        "context": "Sameer was feeling overwhelmed with his workload and reached out to Vaishnavi for advice. Vaishnavi listened to Sameer’s concerns and suggested a few strategies for time management and prioritization. They also discussed the importance of taking breaks and finding balance between work and personal life."
+    },
+    {
+        "id": 7,
+        "path": "C/user/img/img7.png",
+        "timestamp": "2024-09-15T17:30:00Z",
+        "context": "Vaishnavi and Vivek were collaborating on a research paper and needed to finalize their findings. Vaishnavi was focusing on data analysis, while Vivek was drafting the results section. They reviewed each other's work, made revisions, and ensured that their conclusions were well-supported by the data."
+    },
+    {
+        "id": 8,
+        "path": "C/user/img/img8.png",
+        "timestamp": "2024-09-15T18:45:00Z",
+        "context": "Shaarika was organizing a charity event and asked Sameer for help with the event’s technical setup. Sameer agreed to assist and provided guidance on setting up audio-visual equipment and managing the event’s live stream. They coordinated their efforts to ensure that everything went smoothly on the day of the event."
+    },
+    {
+        "id": 9,
+        "path": "C/user/img/img9.png",
+        "timestamp": "2024-09-15T19:00:00Z",
+        "context": "Sameer and Shaarika were attending a conference and decided to network with other attendees. They approached a few industry experts, exchanged contact information, and discussed potential collaborations. The conversations were insightful and provided valuable connections for their future projects."
+    },
+    {
+        "id": 10,
+        "path": "C/user/img/img10.png",
+        "timestamp": "2024-09-15T20:30:00Z",
+        "context": "Vivek and Vaishnavi were discussing their plans for a weekend getaway. Vaishnavi wanted to explore a nearby city, while Vivek was interested in outdoor activities. They decided to create an itinerary that included both urban exploration and nature hikes, making the most of their time off."
+    }
+]
