@@ -46,7 +46,7 @@ conversations =[
     },
     {
         "id": 8,
-        "path": "D:\\OneDrive\\Desktop\\raw\\usecase.png",
+        "path": "D:\\OneDrive\\Desktop\\raw\\redBus.jpg",
         "timestamp": "2024-09-15T18:45:00Z",
         "context": "A red bus with 14 wheels , 40 students seated inside that bus"
     }
