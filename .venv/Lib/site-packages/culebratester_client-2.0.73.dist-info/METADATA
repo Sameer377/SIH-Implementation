@@ -1,0 +1,15 @@
+Metadata-Version: 2.1
+Name: culebratester-client
+Version: 2.0.73
+Summary: CulebraTester
+Home-page: http://github.com/dtmilano/CulebraTester2-client
+Author-email: 
+Keywords: Swagger,CulebraTester
+License-File: LICENSE
+Requires-Dist: urllib3>=1.15
+Requires-Dist: six>=1.10
+Requires-Dist: certifi
+Requires-Dist: python-dateutil
+
+    ## Snaky Android Test --- If you want to be able to try out the API using the **Execute** or **TRY** button from this page - an android device should be connected using &#x60;adb&#x60; - the server should have been started using &#x60;./culebratester2 start-server&#x60;  then you will be able to invoke the API and see the responses.   # noqa: E501
+    
