@@ -88,7 +88,7 @@ Generating PDF.....
 
 ## Technical Approach
 
-![Technical Approach](image.png)
+![Technical Approach](https://github.com/Sameer377/SIH-Implementation/blob/master/Flow.jpg)
 
 
 ### Workflow
